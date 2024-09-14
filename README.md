@@ -17,7 +17,7 @@ I’m an enthusiastic Data Analyst with a passion for transforming unprocessed d
 
 🚀 Let’s connect and collaborate on exciting data initiatives!
 
-[![ArvindUpreti GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)](https://github.com/YourUsername)
+[![ArvindUpreti GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvindupreti&show_icons=true&theme=radical)](https://github.com/YourUsername)
 
 
 
