@@ -24,7 +24,8 @@ I’m an enthusiastic Data Analyst with a passion for transforming unprocessed d
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 
-[![ArvindUpreti GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvindupreti&show_icons=true&theme=radical)](https://github.com/YourUsername)
+<!---[![ArvindUpreti GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvindupreti&show_icons=true&count_private=true&include_all_commits=true&theme=radical)](https://github.com/Arvindupreti)--->
+
 
 
 
