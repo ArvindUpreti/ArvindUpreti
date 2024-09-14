@@ -1,15 +1,22 @@
-👋 Hi there, my name is Arvind. 👊 Data Visualization | SQL & Python | Advanced Excel
-I'm an enthusiastic data analyst with experience turning unprocessed data into insightful knowledge. To support data-driven decision-making, my areas of expertise are data cleansing, data visualization, and interactive dashboard creation.
+👋 Hi there, my name is Arvind.
 
-• 💡 proficient in Excel, Power BI, Python, and SQL
+I’m an enthusiastic Data Analyst with a passion for transforming unprocessed data into insightful knowledge. My expertise lies in data cleansing, data visualization, and interactive dashboard creation to support data-driven decision-making.
 
-• 📈 Have expertise in creating dynamic dashboards, data cleansing, and exploratory data analysis (EDA).
+### Current Focus
+🔭 I’m currently working on - **Power BI**, **SQL**, and **Python**  
+🌱 I’m currently learning - **Machine Learning** and **Data Science**  
+👯 I’m currently working with - **Inept Studio** as a **Data Analyst Intern**
 
-• 🔍 Enjoy learning about new data analytics methods and technologies
+### Skills & Expertise
+• 💡 Proficient in **Excel**, **Power BI**, **Python**, and **SQL**  
+• 📈 Experienced in creating **dynamic dashboards**, **data cleansing**, and **exploratory data analysis (EDA)**  
+• 🔍 Eager to learn and explore new **data analytics methods** and **technologies**
 
-I am currently improving my machine learning and advanced analytics skills.
+### Personal Traits
+😄 Words that describe me - **Self-motivated**, **Focused**, and **Hardworking**
 
-🚀 Let's get in touch and work together on fascinating data initiatives!
+🚀 Let’s connect and collaborate on exciting data initiatives!
+
 
 <!---
 ArvindUpreti/ArvindUpreti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
