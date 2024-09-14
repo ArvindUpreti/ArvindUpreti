@@ -17,6 +17,13 @@ I’m an enthusiastic Data Analyst with a passion for transforming unprocessed d
 
 🚀 Let’s connect and collaborate on exciting data initiatives!
 
+![Power BI](https://img.shields.io/badge/Power_BI-FFDD00?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-0C7A43?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-EA4C1D?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+
 [![ArvindUpreti GitHub stats](https://github-readme-stats.vercel.app/api?username=Arvindupreti&show_icons=true&theme=radical)](https://github.com/YourUsername)
 
 
