@@ -5,7 +5,7 @@ I’m an enthusiastic Data Analyst with a passion for transforming unprocessed d
 ### Current Focus
 🔭 I’m currently working on - **Power BI**, **SQL**, and **Python**  
 🌱 I’m currently learning - **Machine Learning** and **Data Science**  
-👯 I’m currently working with - **Inept Studio** as a **Data Analyst Intern**
+👯 I’m currently working with - **Tagbin** as a **Data Analyst Executive**
 
 ### Skills & Expertise
 • 💡 Proficient in **Excel**, **Power BI**, **Python**, and **SQL**  
