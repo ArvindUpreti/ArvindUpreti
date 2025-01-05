@@ -1,11 +1,11 @@
 👋 Hi there, my name is Arvind.
 
-I’m an enthusiastic Data Analyst with a passion for transforming unprocessed data into insightful knowledge. My expertise lies in data cleansing, data visualization, and interactive dashboard creation to support data-driven decision-making.
+I’m an Data Analyst with a passion for transforming unprocessed data into insightful knowledge. My expertise lies in data cleansing, data visualization, and interactive dashboard creation to support data-driven decision-making.
 
 ### Current Focus
 🔭 I’m currently working on - **Power BI**, **SQL**, and **Python**  
 🌱 I’m currently learning - **Machine Learning** and **Data Science**  
-👯 I’m currently working with - **Tagbin** as a **Data Analyst Executive**
+👯 I’m currently working with - **Tagbin Services Pvt. Ltd.** as a **Data Analyst Executive**
 
 ### Skills & Expertise
 • 💡 Proficient in **Excel**, **Power BI**, **Python**, and **SQL**  
